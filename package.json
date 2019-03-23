@@ -1,0 +1,15 @@
+{
+  "name": "remote-control-agent",
+  "version": "1.0.0",
+  "description": "Remote Control Agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jem",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "screenshot-desktop": "^1.7.0"
+  }
+}
